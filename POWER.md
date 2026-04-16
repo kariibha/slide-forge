@@ -148,3 +148,10 @@ Every generated deck includes a built-in editing toolbar (press **E** to toggle)
 - Pack icons with less than 10px gap
 - Include proprietary data without explicit approval
 - Generate more than 12 slides without asking
+
+## License
+
+This power integrates with the following MCP servers:
+- `context7` — Context7 MCP by Upstash (MIT license)
+
+All steering files and presentation templates are original work by the author. No third-party code or assets are included beyond the Reveal.js presentation framework (MIT license) loaded via CDN.
