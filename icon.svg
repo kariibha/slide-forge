@@ -1,0 +1,22 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Public Slide Forge: Blue gradient, presentation/slides motif -->
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="256" y2="256">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Slide frame -->
+  <rect x="48" y="64" width="160" height="108" rx="12" fill="white" fill-opacity="0.15" stroke="white" stroke-opacity="0.4" stroke-width="3"/>
+  <!-- Inner slide content lines -->
+  <rect x="68" y="84" width="80" height="8" rx="4" fill="white" fill-opacity="0.7"/>
+  <rect x="68" y="100" width="120" height="5" rx="2.5" fill="white" fill-opacity="0.35"/>
+  <rect x="68" y="112" width="100" height="5" rx="2.5" fill="white" fill-opacity="0.35"/>
+  <!-- Card blocks -->
+  <rect x="68" y="126" width="52" height="32" rx="6" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.2" stroke-width="1.5"/>
+  <rect x="128" y="126" width="52" height="32" rx="6" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.2" stroke-width="1.5"/>
+  <!-- Sparkle / AI star -->
+  <path d="M208 48l6 18 18 6-18 6-6 18-6-18-18-6 18-6z" fill="white" fill-opacity="0.9"/>
+  <path d="M56 196l4 12 12 4-12 4-4 12-4-12-12-4 12-4z" fill="white" fill-opacity="0.6"/>
+</svg>

@@ -1,6 +1,7 @@
 ---
 name: "slide-forge"
 displayName: "Slide Forge"
+icon: "icon.svg"
 description: "Generate polished Reveal.js HTML presentations from any topic. Creates infographic-style decks with glassmorphic cards, SVG charts, speaker notes, inline editing, and an interactive toolbar for adding/deleting slides and cards — all in the browser."
 keywords: ["presentation", "slides", "deck", "powerpoint", "reveal", "infographic", "training", "workshop", "demo", "pitch"]
 ---
