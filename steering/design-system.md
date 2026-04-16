@@ -1,4 +1,4 @@
-# Slide Forge Design System — Public Edition
+# Deck Forge Design System — Public Edition
 
 ## Color Palettes
 

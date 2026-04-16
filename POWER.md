@@ -1,13 +1,13 @@
 ---
-name: "Slide Forge — AI Presentation Generator"
-displayName: "Slide Forge — AI Presentation Generator"
+name: "Deck Forge — AI Presentation Generator"
+displayName: "Deck Forge — AI Presentation Generator"
 icon: "icon.svg"
 description: "Generate polished Reveal.js HTML presentations from any topic. Creates infographic-style decks with glassmorphic cards, SVG charts, speaker notes, inline editing, and an interactive toolbar for adding/deleting slides and cards — all in the browser."
 keywords: ["presentation", "slides", "deck", "powerpoint", "reveal", "infographic", "training", "workshop", "demo", "pitch"]
 author: "Bharadwaz Kari"
 ---
 
-# Slide Forge
+# Deck Forge
 
 Generate polished Reveal.js HTML presentations with infographic-quality visuals, SVG charts, speaker notes, and interactive editing — from any topic.
 
@@ -52,7 +52,7 @@ The `assets/` folder contains:
 
 | File | Description |
 |------|-------------|
-| `assets/icon.svg` | Slide Forge power icon |
+| `assets/icon.svg` | Deck Forge power icon |
 
 Users can add their own brand assets (logos, icons) to the `assets/` folder. The agent will reference them when generating presentations.
 
